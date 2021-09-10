@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @v-las
+- 👋 Hi, I’m Vlas Mastykash
 - 👀 I’m interested in Quality Assurance learning
 - 🌱 I’m currently learning the Software testing theory, Bash, Git, Python.
 - 💞️ I have no idea what I’m looking for but I'll found out it soon!
