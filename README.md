@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vlas Mastykash, and here is my GitHub account for practicing on QA Course by Vadim Ksenzov.
 - 👀 I’m interested in getting into the Quality Assurance Engineer profession
-- 🌱 I’m currently learning the Software testing theory, Bash, Git, Python, Postman
+- 🌱 I’m currently learning the Software testing theory, Bash, Git, Python, Postman, DevTools, DBeaver
 - 💞️ I have no idea what projects I’m looking for but I'll found out soon!
 - 📫 You can reach me @ [Telegram](https://t.me/v_las) | [WhatsApp](https://wa.me/79136198392) | [E-mail](mailto:mastykash.vlas@gmail.com)
 <!---
