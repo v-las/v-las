@@ -11,7 +11,7 @@
   [Watch on YouTube](https://youtu.be/P_t3Dbd9S-o)
   ---
   <a href="https://youtu.be/P_t3Dbd9S-o">
-	  <img src="https://img.youtube.com/vi/P_t3Dbd9S-o/maxresdefault.jpg" alt="Presentation" style="width:560px;height:315px;">
+		<img src="https://img.youtube.com/vi/P_t3Dbd9S-o/maxresdefault.jpg" alt="Presentation" style="width:560px;height:315px;">
   </a>
   
   ---
@@ -19,11 +19,8 @@
   [Watch on YouTube](https://youtu.be/P_t3Dbd9S-o)
   ---
   <a href="https://youtu.be/9rS_QANhGXQ">
-	  <img src="https://img.youtube.com/vi/9rS_QANhGXQ/maxresdefault.jpg" alt="Presentation" style="width:560px;height:315px;">
+		<img src="https://img.youtube.com/vi/9rS_QANhGXQ/maxresdefault.jpg" alt="Presentation" style="width:560px;height:315px;">
   </a>
-  
-  ---
-  
 </details>
 <!---
 v-las/v-las is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
