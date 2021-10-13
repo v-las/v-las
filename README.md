@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your cringes.
 <details>
 <summary>👁️‍🗨️ My presentations [Click!]</summary>
   
-  [Watch on YouTube](https://youtu.be/P_t3Dbd9S-o)
+  [Watch on YouTube](https://youtu.be/P_t3Dbd9S-o) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7339694/vlas_pres_01.pdf)
   ---
   <a href="https://youtu.be/P_t3Dbd9S-o">
 		<img src="https://img.youtube.com/vi/P_t3Dbd9S-o/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
@@ -20,10 +20,9 @@ You can click the Preview link to take a look at your cringes.
   
   ---
   
-  [Watch on YouTube](https://youtu.be/9rS_QANhGXQ)
+  [Watch on YouTube](https://youtu.be/9rS_QANhGXQ) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7339725/vlas_pres_02.pdf)
   ---
   <a href="https://youtu.be/9rS_QANhGXQ">
 		<img src="https://img.youtube.com/vi/9rS_QANhGXQ/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
   </a>
 </details>
- 
