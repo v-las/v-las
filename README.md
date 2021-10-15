@@ -8,7 +8,7 @@ v-las/v-las is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your cringes.
 --->
 ---
-⬇️ Below you can see the list of my online-presentations for Vadim Ksenzov's QA Course. I speak in Russian about software testing theory. The open class audience is about 80 people. I make it with [Canva](https://www.canva.com/)
+⬇️ Below you can see the list of my online-presentations for Vadim Ksenzov's QA Course. I speak in Russian about software testing theory. The open class audience is about 80 people in [Zoom](https://zoom.us/) video conference. I make it with [Canva](https://www.canva.com/)
 <details>
 <summary>👁️‍🗨️ My presentations [Click!]</summary>
   
