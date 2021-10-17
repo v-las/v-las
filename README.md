@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your cringes.
   
   ---
   
-  [Watch on YouTube](https://youtu.be/~) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7357908/vlas_pres_03.pdf)
+  [Watch on YouTube](https://youtu.be/~) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7358965/vlas_pres_03.pdf)
   ---
   <a href="https://youtu.be/~">
 		<img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
