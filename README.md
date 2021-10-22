@@ -38,4 +38,4 @@ The course started on the 28<sup>th</sup> of October 2021
 	
 </details>
 
-> It doesn't take much to notice mistakes: giving something better is what befits a decent person.
+> It doesn't take much to spot mistakes: giving something better is what befits a decent person.
