@@ -8,14 +8,15 @@ v-las/v-las is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your cringes.
 --->
 ---
-⬇️ Below you can see the list of my online-presentations for Vadim Ksenzov's QA Course. I speak in Russian about software testing theory. I make it with [Canva](https://www.canva.com/). The open class audience is about 80 people in [Zoom](https://zoom.us/) videoconference
+The course started on the 28th of October 2021
+⬇️ Below you can see the list of my online-presentations for the course. I speak in Russian about software testing theory. I make it with [Canva](https://www.canva.com/). The open class audience is about 80 people in [Zoom](https://zoom.us/) videoconference
 <details>
 <summary>👁️‍🗨️ My presentations [Click!]</summary>
   
-  [Watch on YouTube](https://youtu.be/P_t3Dbd9S-o) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7339694/vlas_pres_01.pdf)
+  [Watch on YouTube](https://youtu.be/d-oARrPWlhk) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7358965/vlas_pres_03.pdf)
   ---
-  <a href="https://youtu.be/P_t3Dbd9S-o">
-		<img src="https://img.youtube.com/vi/P_t3Dbd9S-o/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
+  <a href="https://youtu.be/~">
+		<img src="https://img.youtube.com/vi/d-oARrPWlhk/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
   </a>
   
   ---
@@ -28,9 +29,10 @@ You can click the Preview link to take a look at your cringes.
   
   ---
   
-  [Watch on YouTube](https://youtu.be/d-oARrPWlhk) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7358965/vlas_pres_03.pdf)
+  [Watch on YouTube](https://youtu.be/P_t3Dbd9S-o) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7339694/vlas_pres_01.pdf)
   ---
-  <a href="https://youtu.be/~">
-		<img src="https://img.youtube.com/vi/d-oARrPWlhk/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
+  <a href="https://youtu.be/P_t3Dbd9S-o">
+		<img src="https://img.youtube.com/vi/P_t3Dbd9S-o/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
   </a>
+	
 </details>
