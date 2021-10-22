@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your cringes.
 --->
 ---
 The course started on the 28th of October 2021
+
 ⬇️ Below you can see the list of my online-presentations for the course. I speak in Russian about software testing theory. I make it with [Canva](https://www.canva.com/). The open class audience is about 80 people in [Zoom](https://zoom.us/) videoconference
 <details>
 <summary>👁️‍🗨️ My presentations [Click!]</summary>
