@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your cringes.
 ⬇️ Below you can see the list of my online-presentations for the course. I speak in Russian about software testing theory. I make it with [Canva](https://www.canva.com/). The open class audience is about 80-90 people in [Zoom](https://zoom.us/) videoconference
 <details>
 <summary>👁️‍🗨️ My presentations [Click!]</summary>
-  
+	
+<!---
   [Watch on YouTube](https://youtu.be/~) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7404404/vlas_pres_04.pdf)
   ---
   <a href="https://youtu.be/~">
@@ -21,7 +22,7 @@ You can click the Preview link to take a look at your cringes.
   </a>
 
   ---
-  
+--->
   [Watch on YouTube](https://youtu.be/d-oARrPWlhk) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7358965/vlas_pres_03.pdf)
   ---
   <a href="https://youtu.be/d-oARrPWlhk">
