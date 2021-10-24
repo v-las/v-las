@@ -14,9 +14,17 @@ The course started on the 28<sup>th</sup> of October 2021
 <details>
 <summary>👁️‍🗨️ My presentations [Click!]</summary>
   
-  [Watch on YouTube](https://youtu.be/d-oARrPWlhk) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7358965/vlas_pres_03.pdf)
+  [Watch on YouTube](https://youtu.be/~) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7404404/vlas_pres_04.pdf)
   ---
   <a href="https://youtu.be/~">
+		<img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
+  </a>
+
+  ---
+  
+  [Watch on YouTube](https://youtu.be/d-oARrPWlhk) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7358965/vlas_pres_03.pdf)
+  ---
+  <a href="https://youtu.be/d-oARrPWlhk">
 		<img src="https://img.youtube.com/vi/d-oARrPWlhk/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
   </a>
   
