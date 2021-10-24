@@ -47,3 +47,6 @@ The course started on the 28<sup>th</sup> of August 2021
 </details>
 
 > It doesn't take much to spot mistakes: giving something better is what befits a decent person.
+<!---
+🌟⭐️✨
+--->
