@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vlas Mastykash, and here is my GitHub account for practicing on QA Course by Vadim Ksenzov.
+- 👋 Hi, I’m Vlas Mastykásh, and here is my GitHub account for practicing on QA Course by Vadim Ksenzov.
 - 👀 I’m interested in getting into the Quality Assurance Engineer profession
 - 🌱 I’m currently learning the Software testing theory, GitBash, Postman, DevTools, DBeaver, AndroidStudio, Python
 - 💞️ I have no idea what projects I’m looking for but I'll found out soon!
