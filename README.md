@@ -8,7 +8,7 @@ v-las/v-las is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your cringes.
 --->
 ---
-The course started on the 28<sup>th</sup> of August 2021
+📚 The course started on the 28<sup>th</sup> of August 2021
 
 ⬇️ Below you can see the list of my online-presentations for the course. I speak in Russian about software testing theory. I make it with [Canva](https://www.canva.com/). The open class audience is about 90 people in [Zoom](https://zoom.us/) videoconference
 <details>
