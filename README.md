@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your cringes.
 <summary>👁️‍🗨️ My presentations [Click!]</summary>
 	
 <!---
- [Watch on YouTube](https://youtu.be/~) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7404404/vlas_pres_04.pdf)
+ [Watch on YouTube](https://youtu.be/~) | [Download .pdf from GitHub]()
   ---
   <a href="https://youtu.be/~">
 		<img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
