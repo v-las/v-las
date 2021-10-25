@@ -15,14 +15,22 @@ You can click the Preview link to take a look at your cringes.
 <summary>👁️‍🗨️ My presentations [Click!]</summary>
 	
 <!---
-  [Watch on YouTube](https://youtu.be/~) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7404404/vlas_pres_04.pdf)
+ [Watch on YouTube](https://youtu.be/~) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7404404/vlas_pres_04.pdf)
   ---
   <a href="https://youtu.be/~">
 		<img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
   </a>
-
+ 
   ---
 --->
+  [Watch on YouTube](https://youtu.be/HSlY1ryZIqQ) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7404404/vlas_pres_04.pdf)
+  ---
+  <a href="https://youtu.be/HSlY1ryZIqQ">
+		<img src="https://img.youtube.com/vi/HSlY1ryZIqQ/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;">
+  </a>
+ 
+  ---
+
   [Watch on YouTube](https://youtu.be/d-oARrPWlhk) | [Download .pdf from GitHub](https://github.com/v-las/v-las/files/7358965/vlas_pres_03.pdf)
   ---
   <a href="https://youtu.be/d-oARrPWlhk">
