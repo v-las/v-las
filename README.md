@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your cringes.
 
 > It doesn't take much to spot mistakes: giving something better is what befits a decent person.
 
+[//]: #Sourses
 [01_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_01.pdf>
 [01_raw]: <https://github.com/v-las/pdf-presentations/raw/main/vlas_pres_01.pdf>
 [02_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_02.pdf>
