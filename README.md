@@ -15,28 +15,33 @@ Below you can see the list of my online-presentations for the course. I speak in
 	<summary>👁️‍🗨️ My presentations [Click!]</summary>
 
 <!---
-[Watch video (YouTube)](https://youtu.be/~) | [View .pdf (GitHub)][~_blb] | [Download .pdf (GitHub)][~_raw]
+[Watch video (YouTube)](https://youtu.be/~) | [View .pdf (GitHub)][~_blb] | [View source links (GitHub)][~_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
 --->
-[Watch video (YouTube)](https://youtu.be/HSlY1ryZIqQ) | [View .pdf (GitHub)][04_blb] | [Download .pdf (GitHub)][04_raw]
+[Watch video (YouTube)](https://youtu.be/krMhIWq9Q3E) | [View .pdf (GitHub)][05_blb] | [View source links (GitHub)][05_lnk]
+---
+<a href="https://youtu.be/krMhIWq9Q3E"><img src="https://img.youtube.com/vi/krMhIWq9Q3E/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+
+---
+[Watch video + view source links (YouTube)](https://youtu.be/HSlY1ryZIqQ) | [View .pdf (GitHub)][04_blb]
 ---
 <a href="https://youtu.be/HSlY1ryZIqQ"><img src="https://img.youtube.com/vi/HSlY1ryZIqQ/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Watch video (YouTube)](https://youtu.be/d-oARrPWlhk) | [View .pdf (GitHub)][03_blb] | [Download .pdf (GitHub)][03_raw]
+[Watch video + view source links (YouTube)](https://youtu.be/d-oARrPWlhk) | [View .pdf (GitHub)][03_blb]
 ---
 <a href="https://youtu.be/d-oARrPWlhk"><img src="https://img.youtube.com/vi/d-oARrPWlhk/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Watch video (YouTube)](https://youtu.be/9rS_QANhGXQ) | [View .pdf (GitHub)][02_blb] | [Download .pdf (GitHub)][02_raw]
+[Watch video + view source links (YouTube)](https://youtu.be/9rS_QANhGXQ) | [View .pdf (GitHub)][02_blb]
 ---
 <a href="https://youtu.be/9rS_QANhGXQ"><img src="https://img.youtube.com/vi/9rS_QANhGXQ/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Watch video (YouTube)](https://youtu.be/P_t3Dbd9S-o) | [View .pdf (GitHub)][01_blb] | [Download .pdf (GitHub)][01_raw]
+[Watch video + view source links (YouTube)](https://youtu.be/P_t3Dbd9S-o) | [View .pdf (GitHub)][01_blb]
 ---
 <a href="https://youtu.be/P_t3Dbd9S-o"><img src="https://img.youtube.com/vi/P_t3Dbd9S-o/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
@@ -46,13 +51,11 @@ Below you can see the list of my online-presentations for the course. I speak in
 
 [//]: #Sourses
 [01_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_01.pdf>
-[01_raw]: <https://github.com/v-las/pdf-presentations/raw/main/vlas_pres_01.pdf>
 [02_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_02.pdf>
-[02_raw]: <https://github.com/v-las/pdf-presentations/raw/main/vlas_pres_02.pdf>
 [03_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_03.pdf>
-[03_raw]: <https://github.com/v-las/pdf-presentations/raw/main/vlas_pres_03.pdf>
 [04_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_04.pdf>
-[04_raw]: <https://github.com/v-las/pdf-presentations/raw/main/vlas_pres_04.pdf>
+[05_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.pdf>
+[05_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.md>
 
 <!---
 🌟⭐️✨
