@@ -21,6 +21,13 @@ Below you can see the list of my online-presentations for the course. I speak in
 
 ---
 --->
+<!---
+[Watch video (YouTube)](https://youtu.be/~) | [View .pdf (GitHub)][~_blb] | [View source links (GitHub)][~_lnk]
+---
+<a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+
+---
+--->
 [Watch video (YouTube)](https://youtu.be/krMhIWq9Q3E) | [View .pdf (GitHub)][05_blb] | [View source links (GitHub)][05_lnk]
 ---
 <a href="https://youtu.be/krMhIWq9Q3E"><img src="https://img.youtube.com/vi/krMhIWq9Q3E/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
