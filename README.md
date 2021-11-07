@@ -12,49 +12,44 @@ The course started on the 28<sup>th</sup> of August 2021
 
 Below you can see the list of my online-presentations for the course. I speak in Russian about software testing theory. I make it with [Canva](https://www.canva.com/). The open class audience is about 100-150 people in [Zoom](https://zoom.us/) videoconference
 <details>
-	<summary>👁️‍🗨️ My presentations [Click!]</summary>
+	<summary>👁️‍🗨️ [Click!]</summary>
 
+# Список презентаций
 <!---
-[Watch video (YouTube)](https://youtu.be/~) | [View .pdf (GitHub)][~_blb] | [View source links (GitHub)][~_lnk]
+[Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
 --->
-<!---
-[Watch video (YouTube)](https://youtu.be/~) | [View .pdf (GitHub)][~_blb] | [View source links (GitHub)][~_lnk]
+[Видео + Ссылки (YouTube)](https://youtu.be/X1GIVJ0zUS8) | [Презентация (GitHub)][06_blb]
 ---
-<a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+<a href="https://youtu.be/X1GIVJ0zUS8"><img src="https://img.youtube.com/vi/X1GIVJ0zUS8/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
---->
-[Watch video (YouTube)](https://youtu.be/krMhIWq9Q3E) | [View .pdf (GitHub)][05_blb] | [View source links (GitHub)][05_lnk]
+[Видео (YouTube)](https://youtu.be/krMhIWq9Q3E) | [Презентация (GitHub)][05_blb] | [Ссылки (GitHub)][05_lnk]
 ---
 <a href="https://youtu.be/krMhIWq9Q3E"><img src="https://img.youtube.com/vi/krMhIWq9Q3E/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Watch video + view source links (YouTube)](https://youtu.be/HSlY1ryZIqQ) | [View .pdf (GitHub)][04_blb]
+[Видео + Ссылки (YouTube)](https://youtu.be/HSlY1ryZIqQ) | [Презентация .pdf (GitHub)][04_blb]
 ---
 <a href="https://youtu.be/HSlY1ryZIqQ"><img src="https://img.youtube.com/vi/HSlY1ryZIqQ/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Watch video + view source links (YouTube)](https://youtu.be/d-oARrPWlhk) | [View .pdf (GitHub)][03_blb]
+[Видео + Ссылки (YouTube)](https://youtu.be/d-oARrPWlhk) | [Презентация .pdf (GitHub)][03_blb]
 ---
 <a href="https://youtu.be/d-oARrPWlhk"><img src="https://img.youtube.com/vi/d-oARrPWlhk/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Watch video + view source links (YouTube)](https://youtu.be/9rS_QANhGXQ) | [View .pdf (GitHub)][02_blb]
+[Видео + Ссылки (YouTube)](https://youtu.be/9rS_QANhGXQ) | [Презентация .pdf (GitHub)][02_blb]
 ---
 <a href="https://youtu.be/9rS_QANhGXQ"><img src="https://img.youtube.com/vi/9rS_QANhGXQ/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
-[Watch video + view source links (YouTube)](https://youtu.be/P_t3Dbd9S-o) | [View .pdf (GitHub)][01_blb]
+[Видео + Ссылки (YouTube)](https://youtu.be/P_t3Dbd9S-o) | [Презентация .pdf (GitHub)][01_blb]
 ---
 <a href="https://youtu.be/P_t3Dbd9S-o"><img src="https://img.youtube.com/vi/P_t3Dbd9S-o/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
-
-</details>
-
-> It doesn't take much to spot mistakes: giving something better is what befits a decent person.
 
 [//]: #Sourses
 [01_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_01.pdf>
@@ -63,6 +58,11 @@ Below you can see the list of my online-presentations for the course. I speak in
 [04_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_04.pdf>
 [05_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.pdf>
 [05_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.md>
+[06_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_06.pdf>
+
+</details>
+
+> It doesn't take much to spot mistakes: giving something better is what befits a decent person.
 
 <!---
 🌟⭐️✨
