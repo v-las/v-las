@@ -3,7 +3,6 @@ cd /f/courses/github_repos/pdf-presentations/
 git pull
 cd /f/courses/github_repos/v-las/
 git pull
-cat title.md /f/courses/github_repos/pdf-presentations/README.md ending.md > README.md
-git add .
-git commit -m 'README update'
+cat /f/courses/github_repos/v-las/title.md /f/courses/github_repos/pdf-presentations/README.md /f/courses/github_repos/v-las/ending.md > README.md
+git commit -am 'README update'
 git push
