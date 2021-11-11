@@ -4,7 +4,8 @@ Use title.md! And don't forget to concatinate all the stuff.
 
 - 👋 Hi, I’m Vlas, and here is my QA Course practice account.
 - 👀 I’m interested in getting into the Quality Assurance Engineer profession.
-- 🌱 I’m currently exploring the Software testing theory, GitBash, DevTools, PostgeSQL, Charles, Fiddler, Android Studio, Postman, Python.
+- 🌱 I’m currently learning the Software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
+- 🗺️ I explore tools: DevTools, PostgeSQL, GitBash, Charles, Fiddler, Android Studio, Postman, Python.
 - 💞️ I have no idea what projects I’m looking for but I'll found out soon!
 - 📫 You can reach me @ [Telegram](https://t.me/v_las) | [WhatsApp](https://wa.me/79136198392) | [E-mail](mailto:mastykash.vlas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/v-las/) | [OK.ru](https://youtu.be/dQw4w9WgXcQ)
 
@@ -66,7 +67,7 @@ Below you can see the list of my online-presentations for the course. I speak in
 [05_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.pdf>
 [05_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.md>
 [06_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_06.pdf>
-
+﻿
 </details>
 
 > It doesn't take much to spot mistakes: giving something better is what befits a decent person.
