@@ -67,7 +67,7 @@ Below you can see the list of my online-presentations for the course. I speak in
 [05_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.pdf>
 [05_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.md>
 [06_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_06.pdf>
-﻿
+
 </details>
 
 > It doesn't take much to spot mistakes: giving something better is what befits a decent person.
