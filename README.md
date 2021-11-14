@@ -27,13 +27,20 @@ Below you can see the list of my online presentations for the course community. 
 	<summary>👁️‍🗨️ [Click!]</summary>
 
 # Список презентаций
-<!---
+<!--
 [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
---->
+-->
+<!--
+[Видео + Ссылки (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][07_blb]
+---
+<a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+
+---
+-->
 [Видео + Ссылки (YouTube)](https://youtu.be/X1GIVJ0zUS8) | [Презентация (GitHub)][06_blb]
 ---
 <a href="https://youtu.be/X1GIVJ0zUS8"><img src="https://img.youtube.com/vi/X1GIVJ0zUS8/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
@@ -71,6 +78,8 @@ Below you can see the list of my online presentations for the course community. 
 [05_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.pdf>
 [05_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.md>
 [06_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_06.pdf>
+[07_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_07.pdf>
+
 
 </details>
 
