@@ -26,21 +26,17 @@ Below you can see the list of my online presentations for the course community. 
 <details>
 	<summary>👁️‍🗨️ [Click!]</summary>
 
-# Список презентаций
-<!--
-[Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
+# [✏️](https://github.com/v-las/pdf-presentations/edit/main/README.md) Список презентаций
+<!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
+--- -->
+[Видео + Ссылки (YouTube)](https://youtu.be/LW_7Z8szjGA) | [Презентация (GitHub)][07_blb]
 ---
--->
-<!--
-[Видео + Ссылки (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][07_blb]
----
-<a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+<a href="https://youtu.be/LW_7Z8szjGA"><img src="https://img.youtube.com/vi/LW_7Z8szjGA/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 ---
--->
 [Видео + Ссылки (YouTube)](https://youtu.be/X1GIVJ0zUS8) | [Презентация (GitHub)][06_blb]
 ---
 <a href="https://youtu.be/X1GIVJ0zUS8"><img src="https://img.youtube.com/vi/X1GIVJ0zUS8/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
