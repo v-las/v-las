@@ -5,7 +5,7 @@ Use title.md! And don't forget to concatinate all the stuff.
 -->
 
 ## 👋 Hi, my name is Vlas!
-### [✏️](https://github.com/v-las/v-las/edit/main/title.md) And this is my practice account
+### [✏️](https://github.com/v-las/v-las/edit/main/title.md) This is my practice account
 - 👀 I am interested in becoming a quality assurance engineer.
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
 - 🗺️ I explore tools: DevTools, PostgeSQL, GitBash, Charles, Fiddler, Android Studio, Postman, Python.
