@@ -32,6 +32,11 @@ Below you can see the list of my online presentations for the course community. 
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 --- -->
+<!-- <!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][08_blb] | [Ссылки (GitHub)][08_lnk]
+---
+<a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+
+--- --> -->
 [Видео + Ссылки (YouTube)](https://youtu.be/LW_7Z8szjGA) | [Презентация (GitHub)][07_blb]
 ---
 <a href="https://youtu.be/LW_7Z8szjGA"><img src="https://img.youtube.com/vi/LW_7Z8szjGA/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
@@ -75,6 +80,7 @@ Below you can see the list of my online presentations for the course community. 
 [05_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_05.md>
 [06_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_06.pdf>
 [07_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_07.pdf>
+[08_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.pdf>
 
 
 </details>
