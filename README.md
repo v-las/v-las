@@ -98,7 +98,6 @@ YouTube-канал Вадима Ксендзова - https://www.youtube.com/cha
 [08_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.pdf>
 [08_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.md>
 
-
 </details>
 
 > It doesn't take much to spot mistakes: giving something better is what befits a decent person.
