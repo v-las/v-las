@@ -26,12 +26,6 @@ Below you can see the list of my online presentations for the course community. 
 <details>
 	<summary>👁️‍🗨️ [Click!]</summary>
 
-# [✏️](https://github.com/v-las/pdf-presentations/edit/main/README.md) Список презентаций
-<!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
----
-<a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
-
---- -->
 <!-- Минимально жизнеспособный продукт (MVP) | Презентация
 
 Мой GitHub - https://github.com/v-las
@@ -47,11 +41,18 @@ YouTube-канал Вадима Ксендзова - https://www.youtube.com/cha
 Запись презентации - https://zoom.us/
 
 #ksendzov #vadimksendzov #ксендзов #вадимксендзов -->
-<!-- [Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][08_blb] | [Ссылки (GitHub)][08_lnk]
+
+# [✏️](https://github.com/v-las/pdf-presentations/edit/main/README.md) Список презентаций
+<!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
 --- -->
+[Видео (YouTube)](https://youtu.be/RWLbyB_eNrI) | [Презентация (GitHub)][08_blb] | [Ссылки (GitHub)][08_lnk]
+---
+<a href="https://youtu.be/RWLbyB_eNrI"><img src="https://img.youtube.com/vi/RWLbyB_eNrI/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+
+---
 [Видео + Ссылки (YouTube)](https://youtu.be/LW_7Z8szjGA) | [Презентация (GitHub)][07_blb]
 ---
 <a href="https://youtu.be/LW_7Z8szjGA"><img src="https://img.youtube.com/vi/LW_7Z8szjGA/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
