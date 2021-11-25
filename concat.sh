@@ -9,5 +9,6 @@ git push
 cd /f/github/v-las.github.io/
 git pull
 cat cv.md /f/github/v-las/greetings.md > README.md
-git commit -am 'README.md concatination'
 git pull
+git commit -am 'README.md concatination'
+git push
