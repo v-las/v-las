@@ -31,9 +31,9 @@ You can click the Preview link to take a look at your cringes. -->
 - 📫 You can reach me @ [e-mail](mailto:mastykash.vlas@gmail.com) | [Telegram](https://t.me/v_las) | [WhatsApp](https://wa.me/79136198392) | [LinkedIn](https://www.linkedin.com/in/v-las/) | [OK.ru](https://youtu.be/dQw4w9WgXcQ)
 
 ---
-The course started on the 28<sup>th</sup> of August 2021 [✏️](https://github.com/v-las/v-las/edit/main/02-title.md)
+[✏️](https://github.com/v-las/v-las/edit/main/02-title.md) The course started on the 28<sup>th</sup> of August 2021
 
-Below you can see [the list](https://github.com/v-las/pdf-presentations/blob/main/README.md) of my online presentations for the course community. I speak in Russian about software testing theory. I make it with [Canva](https://www.canva.com/). The audience of the open class is about 80-150 people in [Zoom](https://zoom.us/) video conference.
+Below you can see the list of my online presentations for the course community. I speak in Russian about software testing theory. I make it with [Canva](https://www.canva.com/). The audience of the open class is about 80-150 people in [Zoom](https://zoom.us/) video conference.
 
 <details>
 	<summary>👁️‍🗨️ [Click!]</summary>
@@ -54,7 +54,7 @@ YouTube-канал Вадима Ксендзова - https://www.youtube.com/cha
 
 #ksendzov #vadimksendzov #ксендзов #вадимксендзов -->
 
-# [✏️](https://github.com/v-las/pdf-presentations/edit/main/README.md) Список презентаций
+# [✏️](https://github.com/v-las/pdf-presentations/edit/main/README.md) [Список](https://github.com/v-las/pdf-presentations/blob/main/README.md) презентаций
 <!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
