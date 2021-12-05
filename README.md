@@ -38,13 +38,13 @@ Below you can see the list of my online presentations for the course community. 
 <details>
 	<summary>👁️‍🗨️ [Click!]</summary>
 
-<!-- Минимально жизнеспособный продукт (MVP) | Презентация
+<!-- UI Kit - Компонентный дизайн, Дизайн-система, UI/UX | Презентация
 
 Мой GitHub - https://github.com/v-las
-Презентация "Стратегия MVP - Minimum Viable Product". Подготовлена Власом Мастыкашем, для открытого урока на курсе Вадима Ксендзова
+Презентация "Документ UI Kit - базовая составляющая дизайна продукта". Подготовлена Власом Мастыкашем, для открытого урока на курсе Вадима Ксендзова
 
-Скачать презентацию - https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.pdf
-Полезные ссылки, использованные при подготовке презентации - https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.md
+Полезные ссылки, использованные при подготовке презентации - https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_09.md
+Скачать презентацию - https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_09.pdf
 
 Курс Вадима Ксендзова - https://ksendzov.com/
 YouTube-канал Вадима Ксендзова - https://www.youtube.com/channel/UC6hNNlCXv1ZgdGpziNf83RA
@@ -56,6 +56,11 @@ YouTube-канал Вадима Ксендзова - https://www.youtube.com/cha
 
 # [✏️](https://github.com/v-las/pdf-presentations/edit/main/README.md) [Список](https://github.com/v-las/pdf-presentations/blob/main/README.md) презентаций
 <!-- [Видео + Ссылки (YouTube)][Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][~_blb] | [Ссылки (GitHub)][~_lnk]
+---
+<a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
+
+--- -->
+<!-- [Видео (YouTube)](https://youtu.be/~) | [Презентация (GitHub)][09_blb] | [Ссылки (GitHub)][09_lnk]
 ---
 <a href="https://youtu.be/~"><img src="https://img.youtube.com/vi/~/maxresdefault.jpg" alt="Presentation" style="width:70%;height:70%;"></a>
 
@@ -110,6 +115,8 @@ YouTube-канал Вадима Ксендзова - https://www.youtube.com/cha
 [07_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_07.pdf>
 [08_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.pdf>
 [08_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_08.md>
+[09_blb]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_09.pdf>
+[09_lnk]: <https://github.com/v-las/pdf-presentations/blob/main/vlas_pres_09.md>
 
 </details>
 
