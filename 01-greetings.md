@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your cringes. -->
 
 - 📖 I learn English (LangExchange + English File course books)
 - 💞️ I have no idea what projects I'm looking for, but I'll find out soon enough!
-- 📫 You can reach me @ [e-mail](mailto:mastykash.vlas@gmail.com) | [Telegram](https://t.me/v_las) | [WhatsApp](https://wa.me/79136198392) | [LinkedIn](https://www.linkedin.com/in/v-las/) | [OK.ru](https://youtu.be/dQw4w9WgXcQ)
+- 📫 You can reach me @ [e-mail](mailto:mastykash.vlas@gmail.com) | [Telegram](https://t.me/v_las) | [WhatsApp](https://wa.me/79136198392) | [LinkedIn](https://www.linkedin.com/in/v-las/)
 
