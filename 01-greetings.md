@@ -8,7 +8,7 @@ Use 01-greetings.md! And don't forget to concatinate all the stuff.
 You can click the Preview link to take a look at your cringes. -->
 
 # 👋 Hi, my name is Vlas!
-### [✏️](https://github.com/v-las/v-las/edit/main/01-greetings.md) And this is my practice account
+### And this is my practice account
 - 👀 I am interested in becoming a Quality Assurance engineer.
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
 - 🗺️ I explore tools as a beginner: DevTools, PostgreSQL, GitBash, Charles, Fiddler, Android Studio, Postman, Python.
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your cringes. -->
 
 - 📖 I learn English (LangExchange + English File course books)
 - 💞️ I have no idea what projects I'm looking for, but I'll find out soon enough!
-- 📫 You can reach me @ [e-mail](mailto:mastykash.vlas@gmail.com) | [Telegram](https://t.me/v_las) | [WhatsApp](https://wa.me/79136198392) | [LinkedIn](https://www.linkedin.com/in/v-las/)
+- 📫 You can reach me @ [e-mail](mailto:mastykash.vlas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/v-las/) | [Telegram](https://t.me/v_las) | [WhatsApp](https://wa.me/79136198392)
 
 ---
 The course started on the 28<sup>th</sup> of August 2021
