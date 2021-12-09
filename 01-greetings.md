@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your cringes. -->
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
 - 🗺️ I explore tools as a beginner: DevTools, PostgreSQL, GitBash, Charles, Fiddler, Android Studio, Postman, Python.
 
+<!-- length: 846px, padding: 4px -->
 <div align="center">
 	<img alt="devtools" width="75px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
 	<img alt="dbeaver" width="75px" src="https://user-images.githubusercontent.com/89486551/143319757-0bbd31ce-7860-447a-9571-504653849d0b.png" />
