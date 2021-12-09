@@ -29,13 +29,14 @@ You can click the Preview link to take a look at your cringes. -->
 </div>
 
 - 📖 I learn English (LangExchange + Self studying by **English File** course books)
-- 💞️ I'm looking for a new defferent projects! More different is better!
-- 📫 You can reach me @ [e-mail][email] | [LinkedIn][in] | [Telegram][tg] | [WhatsApp][wa]
+- 💞️ I'm looking for a new projects! Different is better!
+- 📫 You can reach me @ [e-mail][email] | [LinkedIn][in] | [Telegram][tg] | [WhatsApp][wa] | [Twitter][tw]
 
 [email]: <mailto:mastykash.vlas@gmail.com>
 [in]: <https://www.linkedin.com/in/v-las/>
 [tg]: <https://t.me/v_las>
 [wa]: <https://wa.me/79136198392>
+[tw]: <https://twitter.com/v_las_>
 
 ---
 The course started on the 28<sup>th</sup> of August 2021
