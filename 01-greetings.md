@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your cringes. -->
 
 - 👀 I am interested in a lifecycle of software development.
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
-- 🗺️ I explore tools as a beginner: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm.
+- 🗺️ I explore tools as a beginner: DevTools, Figma, Jira, DBeaver, Swagger, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm.
 
 <!-- main_page_length: 846px, img_spacing: 4px -->
 <div align="center">
