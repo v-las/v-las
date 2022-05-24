@@ -27,14 +27,14 @@ There are some facts about me. I am:
 	<img alt="swagger" width="117px" src="https://user-images.githubusercontent.com/89486551/153722742-ae154b3b-291e-4e94-a969-43dbcc537acd.png" />
 	<img alt="postman" width="117px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" />
 	<br>
-	<img alt="Git" width="117px" src="https://user-images.githubusercontent.com/89486551/143319775-c711ac23-04f8-44dd-9a0b-ea3698467e9e.png" />
-	<img alt="Markdown" width="117px" src="https://user-images.githubusercontent.com/89486551/143319781-e0cb8223-f5db-4cfd-b2f8-9fab2e227023.png" />
-	<img alt="charles" width="117px" src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" />
-	<img alt="jmeter" width="117px" src="https://user-images.githubusercontent.com/89486551/170130770-05666e29-abdc-43cb-9b85-b716c2509eae.png" />
-	<img alt="fiddler" width="117px" src="https://user-images.githubusercontent.com/89486551/143319792-72034e75-f2fe-4589-b741-6f21a2433a71.png" />
-	<img alt="android-studio" width="117px" src="https://user-images.githubusercontent.com/89486551/143319797-01713acf-1cc6-49c9-ae92-d520d55cef17.png" />
-	<img alt="pycharm" width="117px" src="https://user-images.githubusercontent.com/89486551/143319814-3645ca4a-c3cc-4958-aa5b-ff27b47d704c.png" />
-	<img alt="WebStorm" width="117px" src="https://user-images.githubusercontent.com/89486551/145703556-7853a2fb-9487-49c4-9ff9-868c0fb82a98.png" />
+	<img alt="Git" width="102px" src="https://user-images.githubusercontent.com/89486551/143319775-c711ac23-04f8-44dd-9a0b-ea3698467e9e.png" />
+	<img alt="Markdown" width="102px" src="https://user-images.githubusercontent.com/89486551/143319781-e0cb8223-f5db-4cfd-b2f8-9fab2e227023.png" />
+	<img alt="charles" width="102px" src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" />
+	<img alt="jmeter" width="102px" src="https://user-images.githubusercontent.com/89486551/170130770-05666e29-abdc-43cb-9b85-b716c2509eae.png" />
+	<img alt="fiddler" width="102px" src="https://user-images.githubusercontent.com/89486551/143319792-72034e75-f2fe-4589-b741-6f21a2433a71.png" />
+	<img alt="android-studio" width="102px" src="https://user-images.githubusercontent.com/89486551/143319797-01713acf-1cc6-49c9-ae92-d520d55cef17.png" />
+	<img alt="pycharm" width="102px" src="https://user-images.githubusercontent.com/89486551/143319814-3645ca4a-c3cc-4958-aa5b-ff27b47d704c.png" />
+	<img alt="WebStorm" width="102px" src="https://user-images.githubusercontent.com/89486551/145703556-7853a2fb-9487-49c4-9ff9-868c0fb82a98.png" />
 </div>
 
 - learning English in a language class (LangExchange + Self-studying by English File course books on a pause for a while :( )
