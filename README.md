@@ -41,14 +41,14 @@ These are the tools I use daily or explore to sharpen my QA skills:
   </p>
 </div>
 
-### I'm also
+### I'm also:
 
 - learning English through classes and self-study,
 - studying software testing theory using S. Kulikov's book.
 - open to new and diverse projects — the more unique, the better!
 
 
-### You can reach me @
+### You can reach me @:
 
 |Contacts|Link|
 |---|---|
