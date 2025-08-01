@@ -3,7 +3,7 @@ You can click the Preview link to take a look at your cringes. -->
 
 # 👋 Hi, my name is Vlas!
 
-Here are a few things about me:
+### Here are a few things about me:
 
 - a QA Engineer striving to become the best!
 - deeply interested in the entire software development lifecycle — from sales and planning to development, testing, and delivery.
